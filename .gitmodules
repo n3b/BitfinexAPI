@@ -1,0 +1,3 @@
+[submodule "BitfinexAPI/Starscream"]
+	path = BitfinexAPI/Starscream
+	url = https://github.com/daltoniam/Starscream.git
